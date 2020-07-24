@@ -253,7 +253,7 @@ local function make_defaults(lua_version, target_cpu, platforms, home)
          MKTEMP = "mktemp",
 
          ZIP = "zip",
-         UNZIP = "unzip -n",
+         UNZIP = "unzip",
          GUNZIP = "gunzip",
          BUNZIP2 = "bunzip2",
          TAR = "tar",
